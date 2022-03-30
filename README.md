@@ -18,7 +18,7 @@ My first solution to a challenge from frontend mentor. A simple page with a QR C
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://qr-card-ms.netlify.app/)
 
 ### Built with
 
