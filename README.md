@@ -28,8 +28,8 @@ My first solution to a challenge from frontend mentor. A simple page with a QR C
 - Mobile-first workflow
 
 ## Author
-
+- Autor - Martín Saulo
 - Website - I dont't have one yet :(
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+
 
 
