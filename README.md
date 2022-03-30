@@ -17,7 +17,7 @@ My first solution to a challenge from frontend mentor. A simple page with a QR C
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-card-html-css-Byqy88z75)
 - Live Site URL: [Live site URL](https://qr-card-ms.netlify.app/)
 
 ### Built with
